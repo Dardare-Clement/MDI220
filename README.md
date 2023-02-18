@@ -2,4 +2,4 @@
 
 - Exploration des données, recherche de leur loi
 - Estimation ponctuelle des paramètres d’une loi exponentielle
-- est sur le paramètre d’une loi
+- Test sur le paramètre d’une loi
